@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohsen (BlckR0SE)
+# BlckR0SE
 
 *Autonomous Agents &middot; Systems Architecture &middot; Full-Stack Engineering*
 
