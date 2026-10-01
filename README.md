@@ -17,7 +17,7 @@ Building deterministic agent engines, enterprise ERP platforms, and automated cl
 
 <br />
 
-<kbd>[About](#about)</kbd> &middot; <kbd>[Focus Areas](#focus-areas)</kbd> &middot; <kbd>[What Ships](#what-ships)</kbd> &middot; <kbd>[Tech Stack](#tech-stack)</kbd>
+<kbd>[About](#about)</kbd> &middot; <kbd>[What Ships](#what-ships)</kbd> &middot; <kbd>[Tech Stack](#tech-stack)</kbd>
 
 </div>
 
@@ -34,37 +34,6 @@ Building deterministic agent engines, enterprise ERP platforms, and automated cl
 ## About
 
 Practicing minimalist, test-driven systems engineering. The core ethos: shortest diff wins, deletion over addition, root-cause resolution in shared primitives, zero unasked abstractions, and standard library tools before introducing external dependencies.
-
----
-
-## Focus Areas
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80" alt="Autonomous Agents" />
-      <br />
-      <sub><b>Autonomous Agent Engines.</b> Executable playbooks, structured agent delegation, and deterministic workflow loops.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=80" alt="Enterprise Platforms" />
-      <br />
-      <sub><b>Enterprise Systems & ERP.</b> Next.js, strictly typechecked architectures, secure payroll processing, and scalable data flows.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=800&auto=format&fit=crop&q=80" alt="Automation & CI/CD" />
-      <br />
-      <sub><b>Automation & CI/CD.</b> Ephemeral VPS runner environments, background cron pipelines, and containerized deployments.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop&q=80" alt="Software Discipline" />
-      <br />
-      <sub><b>Clean Architecture & Tooling.</b> Ponytail ladder discipline: stdlib-first, deletion over addition, and rigorous test coverage.</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
